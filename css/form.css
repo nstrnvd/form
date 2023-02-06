@@ -12,6 +12,10 @@ div{
     padding: 12px;
     width: 20%;
 }
+input:invalid {
+    border: 2px solid #1d1d3c;
+    background-color: #98b3ca;
+  }
 input[type=text]{
     width: 100%;
     padding: 12px 20px;
